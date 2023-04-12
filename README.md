@@ -12,3 +12,8 @@ Check Running Process
 ```bash
     sudo lsof -i -P -n
 ```
+
+Install ESLint with configurations prompt
+```bash
+    npm init @eslint/config
+```

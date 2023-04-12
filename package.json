@@ -12,6 +12,7 @@
   "author": "Ricardo Zanluchi Ribeiro",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^8.38.0",
     "nodemon": "^2.0.22"
   },
   "dependencies": {

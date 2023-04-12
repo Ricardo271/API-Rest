@@ -17,3 +17,8 @@ Install ESLint with configurations prompt
 ```bash
     npm init @eslint/config
 ```
+
+Apply ESLint configuration to code
+```bash
+    npx eslint ./src --fix
+```
